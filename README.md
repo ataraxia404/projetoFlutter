@@ -1,4 +1,4 @@
-# projetoFlutter
+### OpenIA-J
 Projeto da disciplina Fundamentos da programação aplicada
 
 ## DESCRIÇÃO
