@@ -9,7 +9,7 @@ Expandir os conheciment/motivar os usuários ssobre funções matemáticas e der
 
 ## FUNCIONALIDADES
  * Apresentar conceitos introdutórios básicos e acessíveis aos usuários
- * Bloco interativo em que há uma rede neural acoplada e fornece as equações diferenciais fornecidas pelos usuários
+ * Bloco interativo em que há uma rede neural acoplada e fornece as soluções das equações diferenciais fornecidas pelos usuários
 
 # LINKS
 
