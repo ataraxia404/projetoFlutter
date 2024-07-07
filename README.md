@@ -16,4 +16,6 @@ Expandir os conheciment/motivar os usuários ssobre funções matemáticas e der
 # - [Logo da Página Inicial da Galeria da Disciplina](link do drive)
 - [Imagem(Logo) da página inicial da Galeria da Disciplina](https://drive.google.com/file/d/1aUOG3zEbRVGSELh_WYdBVPq7aPYpzZnO/view?usp=sharing)
 - [Imagem (Logo) da página detalhada do Aplicativo (Projeto)](https://drive.google.com/file/d/1OuCo_C9I2nQuYeJq1EMkHq3TC6XgLW9R/view?usp=sharing)
+- [link do vídeo do aplicativo: ](https://youtu.be/QeAkeCoYJpI)
+- [link do Pitch](https://youtu.be/H79bPc0tk6Q)
 
